@@ -21,7 +21,7 @@ const config = {
         name: 'sympl',
         description: 'Thoughts, stories and ideas.',
         twitterHandle: '@mrvautin',
-        baseUrl: 'https://blog.squido.org',
+        baseUrl: 'https://squido-blog.markmoffat.com',
         sourcesExt: 'markdown',
         summaryLength: 250,
         port: 4965,
